@@ -1,0 +1,14 @@
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/bin/Debug/net10.0/CS06
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/bin/Debug/net10.0/CS06.deps.json
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/bin/Debug/net10.0/CS06.runtimeconfig.json
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/bin/Debug/net10.0/CS06.dll
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/bin/Debug/net10.0/CS06.pdb
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/obj/Debug/net10.0/CS06.GeneratedMSBuildEditorConfig.editorconfig
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/obj/Debug/net10.0/CS06.AssemblyInfoInputs.cache
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/obj/Debug/net10.0/CS06.AssemblyInfo.cs
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/obj/Debug/net10.0/CS06.csproj.CoreCompileInputs.cache
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/obj/Debug/net10.0/CS06.dll
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/obj/Debug/net10.0/refint/CS06.dll
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/obj/Debug/net10.0/CS06.pdb
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/obj/Debug/net10.0/CS06.genruntimeconfig.cache
+/home/v/Projetos/Dot_NET/Fundamentos/CS06/obj/Debug/net10.0/ref/CS06.dll
